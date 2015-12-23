@@ -1,0 +1,13 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+# 
+newmtl Servant_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd person.ppm
+
+
