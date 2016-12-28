@@ -1,6 +1,9 @@
 # Simple_Dungeon-OpenGL
 Project of Interactive Computer Graphics Course
 
+![screenshot1](https://github.com/mssjappjwt/Dungeon-OpenGL/blob/master/screenshot1.jpg)
+![screenshot2](https://github.com/mssjappjwt/Dungeon-OpenGL/blob/master/screenshot2.jpg)
+
 ## Introduction
 **Scene I:** The user (be able to toggle two viewpoints, first person and third person) walking in a dungeon with a flashlight (be able to toggle flashlight) in his hand, at the end of the road there will be a building that user can enter.
 
